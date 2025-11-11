@@ -1,0 +1,18 @@
+Cocinero 1 ha recogido el pedido 1: Falafel
+Cocinero 2 ha recogido el pedido 2: Pollo Asado
+Cocinero 3 ha recogido el pedido 3: Empanada
+Cocinero 2 empieza a preparar el pedido 2: Pollo Asado
+Cocinero 3 empieza a preparar el pedido 3: Empanada
+Cocinero 1 empieza a preparar el pedido 1: Falafel
+Cocinero 2 ha terminado el pedido 2: Pollo Asado
+Cocinero 3 ha terminado el pedido 3: Empanada
+Cocinero 2 ha recogido el pedido 4: Croquetas
+Cocinero 1 ha terminado el pedido 1: Falafel
+Cocinero 3 ha recogido el pedido 5: Lasaña
+Cocinero 1 ha recogido el pedido 6: Falafel
+Cocinero 2 empieza a preparar el pedido 4: Croquetas
+Cocinero 3 empieza a preparar el pedido 5: Lasaña
+Cocinero 1 empieza a preparar el pedido 6: Falafel
+Cocinero 3 ha terminado el pedido 5: Lasaña
+Cocinero 2 ha terminado el pedido 4: Croquetas
+Cocinero 1 ha terminado el pedido 6: Falafel

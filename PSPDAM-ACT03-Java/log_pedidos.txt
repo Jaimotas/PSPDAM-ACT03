@@ -1,0 +1,36 @@
+Cocinero 1 ha recogido el pedido 1: Kebab
+Cocinero 3 ha recogido el pedido 2: Lasaña
+Cocinero 2 ha recogido el pedido 3: Spaghetti
+Cocinero 2 empieza a preparar el pedido 3: Spaghetti
+Cocinero 3 empieza a preparar el pedido 2: Lasaña
+Cocinero 1 empieza a preparar el pedido 1: Kebab
+Cocinero 1 ha terminado el pedido 1: Kebab
+Cocinero 3 ha terminado el pedido 2: Lasaña
+Cocinero 1 ha recogido el pedido 4: Pollo Asado
+Cocinero 2 ha terminado el pedido 3: Spaghetti
+Cocinero 3 ha recogido el pedido 5: Tortilla Española
+Cocinero 2 ha recogido el pedido 6: Pizza
+Cocinero 1 empieza a preparar el pedido 4: Pollo Asado
+Cocinero 3 empieza a preparar el pedido 5: Tortilla Española
+Cocinero 2 empieza a preparar el pedido 6: Pizza
+Cocinero 2 ha terminado el pedido 6: Pizza
+Cocinero 1 ha terminado el pedido 4: Pollo Asado
+Cocinero 3 ha terminado el pedido 5: Tortilla Española
+Cocinero 1 ha recogido el pedido 1: Falafel
+Cocinero 2 ha recogido el pedido 2: Ramen
+Cocinero 3 ha recogido el pedido 3: Quiche
+Cocinero 1 empieza a preparar el pedido 1: Falafel
+Cocinero 3 empieza a preparar el pedido 3: Quiche
+Cocinero 2 empieza a preparar el pedido 2: Ramen
+Cocinero 1 ha terminado el pedido 1: Falafel
+Cocinero 1 ha recogido el pedido 4: Dumplings
+Cocinero 1 empieza a preparar el pedido 4: Dumplings
+Cocinero 2 ha terminado el pedido 2: Ramen
+Cocinero 3 ha terminado el pedido 3: Quiche
+Cocinero 2 ha recogido el pedido 5: Empanada
+Cocinero 3 ha recogido el pedido 6: Spaghetti
+Cocinero 1 ha terminado el pedido 4: Dumplings
+Cocinero 2 empieza a preparar el pedido 5: Empanada
+Cocinero 3 empieza a preparar el pedido 6: Spaghetti
+Cocinero 3 ha terminado el pedido 6: Spaghetti
+Cocinero 2 ha terminado el pedido 5: Empanada
